@@ -2,8 +2,8 @@ import asyncio
 from aiogram import Bot
 
 # 토큰을 입력하세요
-API_TOKEN = '7913490416:AAHVEmtoHv0Vsp7VoDv8i75uf9vXzW148TE'
-chat_id = '7582958759'
+API_TOKEN = ''
+chat_id = ''
 
 async def send_message(text):
     bot = Bot(token=API_TOKEN)
